@@ -51,7 +51,7 @@ imports:
   - crypto
   - jws
   - jwt
-- name: github.com/Sirupsen/logrus
+- name: github.com/sirupsen/logrus
   version: c078b1e43f58d563c74cebe63c85789e76ddb627
 - name: github.com/spf13/cobra
   version: 0f056af21f5f368e5b0646079d0094a2c64150f7

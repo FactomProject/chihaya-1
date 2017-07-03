@@ -6,8 +6,8 @@ import (
 	"context"
 	"net/http"
 
-	log "github.com/Sirupsen/logrus"
 	"github.com/prometheus/client_golang/prometheus"
+	log "github.com/sirupsen/logrus"
 )
 
 // Server represents a standalone HTTP server for serving a Prometheus metrics

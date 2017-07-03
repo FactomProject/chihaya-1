@@ -6,11 +6,11 @@ import (
 	"context"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
 	"github.com/chihaya/chihaya/bittorrent"
 	"github.com/chihaya/chihaya/frontend"
 	"github.com/chihaya/chihaya/pkg/stop"
 	"github.com/chihaya/chihaya/storage"
+	log "github.com/sirupsen/logrus"
 )
 
 // Config holds the configuration common across all middleware.

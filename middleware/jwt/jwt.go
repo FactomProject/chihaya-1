@@ -19,8 +19,8 @@ import (
 	jc "github.com/SermoDigital/jose/crypto"
 	"github.com/SermoDigital/jose/jws"
 	"github.com/SermoDigital/jose/jwt"
-	log "github.com/Sirupsen/logrus"
 	"github.com/mendsley/gojwk"
+	log "github.com/sirupsen/logrus"
 
 	"github.com/chihaya/chihaya/bittorrent"
 	"github.com/chihaya/chihaya/middleware"
